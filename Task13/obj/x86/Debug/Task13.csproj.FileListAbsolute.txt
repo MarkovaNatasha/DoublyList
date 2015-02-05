@@ -1,0 +1,4 @@
+D:\NaTaLi\Книги\bionic university\Task13\Task13\bin\Debug\Task13.exe
+D:\NaTaLi\Книги\bionic university\Task13\Task13\bin\Debug\Task13.pdb
+D:\NaTaLi\Книги\bionic university\Task13\Task13\obj\x86\Debug\Task13.exe
+D:\NaTaLi\Книги\bionic university\Task13\Task13\obj\x86\Debug\Task13.pdb
